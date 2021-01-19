@@ -1,4 +1,4 @@
 this = true;
 if(this){
-    cout << "korv mannen";
+    cout << "aldrig igen mannen";
 }
