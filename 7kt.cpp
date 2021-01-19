@@ -1,4 +1,7 @@
+
+
+
 this = true;
 if(this){
-    std::cout << "aldrig igen kvinnan";
+    std::cout << "aldrig igen, HUR?";
 }
